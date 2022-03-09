@@ -24,7 +24,7 @@ a {
   list-style-type: square;
   width: fit-content;
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   .container1 {
     display: flex;
     border: 1px #cc solid;
@@ -32,7 +32,7 @@ a {
     justify-content: space-between;
     background-color: #202021;
   }
-}
+} */
 
 .one {
   width: 23%;
