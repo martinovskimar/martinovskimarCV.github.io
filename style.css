@@ -25,7 +25,7 @@ a {
   width: fit-content;
 }
 /* @media (min-width: 768px) {
-  .container1 {
+  .container {
     display: flex;
     border: 1px #cc solid;
     padding: 10px;
@@ -34,7 +34,7 @@ a {
   }
 } */
 
-.one {
+/* .one {
   width: 23%;
   background-color: #34343c;
 }
@@ -49,4 +49,13 @@ a {
 .four {
   width: 23%;
   background-color: #34343c;
+} */
+.row {
+  margin-top: 50px;
+  min-height: 50px;
+  justify-content: space-between;
+}
+.show {
+  background-color: rgb(235, 229, 229);
+  color: black;
 }
